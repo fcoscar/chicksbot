@@ -1,5 +1,4 @@
 discord
 datetime
-googleapiclient.discovery
-google.oauth2
-discord.ext
+googleapiclient
+google

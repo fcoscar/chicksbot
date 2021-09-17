@@ -1,4 +1,4 @@
 discord
 datetime
-googleapiclient
+google-api-python-client
 google

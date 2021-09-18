@@ -1,0 +1,4 @@
+BOT_TOKEN = YOU BOT TOKEN
+SERVICE_FILE = YOUR SERVICE FILE
+SCOPE = ['https://www.googleapis.com/auth/spreadsheets']
+SPREADSHEET_ID = YOUR GOOGLE SPREADHEET ID

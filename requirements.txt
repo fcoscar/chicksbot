@@ -1,4 +1,0 @@
-discord
-datetime
-google-api-python-client
-google
